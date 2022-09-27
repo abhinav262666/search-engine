@@ -11,18 +11,25 @@ https://dsa-code-plus-search.herokuapp.com/
 This project is deployed using HEROKU application.
 
 -------------INTALLATION-----------
+
 npm install -g nodemon
+
 npm install express
+
 npm install ejs
+
 npm install natural
 
 For Data Scrapping (on Pycharm)
 
 pip install selenium
+
 pip install beautifulsoup4
+
 pip install webdriver_manager
 
 For Data Cleaning 
+
 pip install nltk
 
     
