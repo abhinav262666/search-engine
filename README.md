@@ -8,10 +8,9 @@ https://dsa-code-plus-search.herokuapp.com/
 
 # DEPLOYEMENT
 
+This project is deployed using HEROKU application.
 
-
-## Installation
-
+-------------INTALLATION-----------
 npm install -g nodemon
 npm install express
 npm install ejs
